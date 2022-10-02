@@ -3891,12 +3891,15 @@ document.addEventListener('turbolinks:load', () => {
     initDropdown()
     initCollapse()
     initModal()
-    initPopover()
 })
 
 document.addEventListener('reactions:loaded', () => {
     initPopover()
 })
+
+
+
+
 
 
 /* harmony default export */ const flowbite = ({
